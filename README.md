@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Phan</h1>
-<h3 align="center">A Front-end Developer in the States</h3>
+<h3 align="center">A Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangnphan&label=Profile%20views&color=0e75b6&style=flat" alt="quangnphan" /> </p>
 
