@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangnphan" alt="quangnphan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://quangnphan.github.io/portfolio/]([https://quangnphan.github.io/portfolio/])
+- 👨‍💻 All of my projects are available at [https://quangnphan.github.io/portfolio/](https://quangnphan.github.io/portfolio/)
 
 - 📫 How to reach me **qp2194@gmail.com**
 
@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quangnphan&show_icons=true&locale=en&layout=compact" alt="quangnphan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quangnphan&show_icons=true&locale=en" alt="quangnphan" /></p>
-
