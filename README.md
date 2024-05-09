@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quangnphan" alt="quangnphan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://quangphan-portfolio.vercel.app](https://quangphan-portfolio.vercel.app)
+- 👨‍💻 Checkout my portfolio at [https://quangphan-portfolio.vercel.app](https://quangphan-portfolio.vercel.app)
 
 - 📫 How to reach me **qp2194@gmail.com**
 
